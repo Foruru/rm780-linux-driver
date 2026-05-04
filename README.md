@@ -11,7 +11,7 @@ REAL-EL doesn't provide a Linux driver for this mouse, and the Windows version d
 ## Goals
 
 - [x] Catalogue all Windows driver features
-- [ ] Reverse engineer all features
+- [x] Reverse engineer all features
 - [ ] Implement backend (C + libusb)
 - [ ] Implement frontend (GUI/CLI)
 
